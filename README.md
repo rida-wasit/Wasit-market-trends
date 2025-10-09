@@ -25,8 +25,8 @@ A real-time market price monitoring system for agricultural products, with Arabi
 
 ```bash
 # Clone the repository
-git clone https://github.com/rida-wasit/vegetable_price_tracker.git
-cd vegetable-price-tracker
+git clone https://github.com/rida-wasit/Wasit-market-trend.git
+cd Wasit-market-trend
 
 # Create virtual environment (Linux/macOS)
 python3 -m venv .venv
